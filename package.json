@@ -1,0 +1,22 @@
+{
+  "name": "is-wds-asiflhr",
+  "version": "1.0.0",
+  "description": "Is the string WDS?",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/asiflhr/test-package-npm.git"
+  },
+  "keywords": [
+    "WDS"
+  ],
+  "author": "Muhammad Asif",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/asiflhr/test-package-npm/issues"
+  },
+  "homepage": "https://github.com/asiflhr/test-package-npm#readme"
+}

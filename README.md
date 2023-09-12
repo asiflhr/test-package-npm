@@ -2,7 +2,7 @@
 
 run npm i is-wds-asiflhr
 
-ES6 => import isWds from 'is-wds-asiflhr'
+ES6 => import isWds from 'is-wds-asiflhr'<br>
 ES5 => const isWds = require('is-wds-asiflhr')
 
 console.log(isWds('WDS'));<br>
